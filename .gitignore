@@ -9,3 +9,4 @@ torchBasics.py
 transforms.py
 wine.csv
 wine.csv:Zone.Identifier
+__pycache__/
