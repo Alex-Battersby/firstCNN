@@ -1,0 +1,11 @@
+cifar/
+venv/
+batchTraining.py
+cnn.py
+get-pip.py
+linearRegression.py
+logisticRegression.py
+torchBasics.py
+transforms.py
+wine.csv
+wine.csv:Zone.Identifier
